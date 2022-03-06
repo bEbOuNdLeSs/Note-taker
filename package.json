@@ -4,20 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bEbOuNdLeSs/Note-taker.git"
-  },
-  "author": "bEbOuNdLeSs",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bEbOuNdLeSs/Note-taker/issues"
-  },
-  "homepage": "https://github.com/bEbOuNdLeSs/Note-taker#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.16.4"
   }
 }
