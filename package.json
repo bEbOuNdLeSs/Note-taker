@@ -1,23 +1,14 @@
 {
-  "dependencies": {
-    "express": "^4.17.3"
-  },
-  "scripts": {
-    "start": "node server.js"
-  },
   "name": "note-taker",
-  "description": "## Description",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bEbOuNdLeSs/Note-taker.git"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "bEbOuNdLeSs",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bEbOuNdLeSs/Note-taker/issues"
-  },
-  "homepage": "https://github.com/bEbOuNdLeSs/Note-taker#readme"
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
