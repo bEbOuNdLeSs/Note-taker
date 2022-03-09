@@ -18,7 +18,11 @@ Click [Here](https://simply-note-taking.herokuapp.com/ ) to go to the live deplo
 
 ## Demo video
 
-(insert link here)
+
+https://user-images.githubusercontent.com/93752351/157379840-16519d88-d612-4bdd-a516-d334e809f093.mp4
+
+
+
 
 ## Questions 
 
