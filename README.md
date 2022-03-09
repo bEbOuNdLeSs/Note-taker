@@ -6,7 +6,7 @@ This is a note taker app that is deployed live to heroku. It allows the user to 
 
 ## Install
 
-For this app, there are no installation instructions! It is live at (Insert Heroku Link)!
+For this app, there are no installation instructions! It is live [Here](https://simply-note-taking.herokuapp.com/ ) !
 
 ## Usage 
 
@@ -14,7 +14,7 @@ The application can be used to generate and save notes that the user would like 
 
 ## Deployment
 
-(insert link here)
+Click [Here](https://simply-note-taking.herokuapp.com/ ) to go to the live deployment!
 
 ## Demo video
 
